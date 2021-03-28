@@ -1,4 +1,4 @@
-## SIMPLE SHORTENER URL WITH CODEIGNITER 3
+## SIMPLE URL SHORTENER WITH CODEIGNITER 3
 How to install
 * IMPORT DATABASE shortlink.sql 
 * Run Command via CLI 'PHP -S localhost:8080' to run this app 
