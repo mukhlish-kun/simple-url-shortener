@@ -2,30 +2,6 @@
 How to install
 * IMPORT DATABASE shortlink.sql 
 * Run Command via CLI 'PHP -S localhost:8080' to run this app 
-##
-##
-##
-##
-##
-##
-##
-##
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ###################
 What is CodeIgniter
